@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Well-trained dog not]]></title>
   <link href="http://fumingshih.github.com/atom.xml" rel="self"/>
   <link href="http://fumingshih.github.com/"/>
-  <updated>2012-10-31T09:47:16-04:00</updated>
+  <updated>2012-11-23T15:43:59-05:00</updated>
   <id>http://fumingshih.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Fuming Shih]]></name>
+    <email><![CDATA[fuming@mit.edu]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A dream should never wither away]]></title>
+    <link href="http://fumingshih.github.com/blog/2012/11/23/a-dream-should-never-wither-away/"/>
+    <updated>2012-11-23T15:23:00-05:00</updated>
+    <id>http://fumingshih.github.com/blog/2012/11/23/a-dream-should-never-wither-away</id>
+    <content type="html"><![CDATA[<p>This is a test.
+ABC ABC ABC ABC</p>
+]]></content>
+  </entry>
   
 </feed>
